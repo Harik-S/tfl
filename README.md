@@ -174,7 +174,7 @@ https://api.tfl.gov.uk/StopPoint/{stopId}/Arrivals
 
 Official documentation:
 
-:contentReference[oaicite:0]{index=0}
+https://api-portal.tfl.gov.uk/
 
 ---
 
