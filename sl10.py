@@ -31,7 +31,7 @@ times_destination = {bus: [] for bus in bus_ids}
 arrival_times_origin = {bus: {} for bus in bus_ids}
 arrival_times_destination = {bus: {} for bus in bus_ids}
 
-end_program_time = datetime.now() + timedelta(minutes=50)
+end_program_time = datetime.now() + timedelta(hours=6)
 
 try:
     while True:
